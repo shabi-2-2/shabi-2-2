@@ -42,11 +42,24 @@ flowchart LR
 
 ## 🔗 Connect
 
-[📧 Gmail](mailto:zhrizvi476@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/) ·
-[LeetCode](https://leetcode.com/u/shabi_32/) ·
-[Codeforces](https://codeforces.com/profile/Shabi_32/)
----
+<p align="left">
+  <a href="mailto:zhrizvi476@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shabi_32/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Shabi_32/">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" alt="Codeforces"/>
+  </a>
+</p>
+------
 
 ## Experienced With
 
