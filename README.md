@@ -8,34 +8,29 @@ Currently exploring **Python, C++, Linux, AI, automation, and backend developmen
 
 ## 📈 Learning Journey
 
-```text
-🌱 Foundations
-      │
-      ▼
-💻 Programming
-      │
-      ▼
-🧠 DSA & Problem Solving
-      │
-      ▼
-🛠️ Real-World Projects
-      │
-      ▼
-🐧 Linux & Systems
-      │
-      ▼
-⚙️ Automation & Backend
-      │
-      ▼
-🤖 AI Engineering
-      │
-      ▼
-🚀 Production & Open Source
+```mermaid
+flowchart LR
+    A["🌱 Foundations"] --> B["💻 Programming"]
+    B --> C["🧠 DSA"]
+    C --> D["🛠️ Projects"]
+    D --> E["🐧 Linux"]
+    E --> F["⚙️ Backend"]
+    F --> G["☁️ Cloud"]
+    G --> H["🤖 AI"]
+    H --> I["🚀 Open Source"]
+
+    style A fill:#161b22,stroke:#58a6ff,color:#fff
+    style B fill:#161b22,stroke:#58a6ff,color:#fff
+    style C fill:#161b22,stroke:#58a6ff,color:#fff
+    style D fill:#161b22,stroke:#58a6ff,color:#fff
+    style E fill:#161b22,stroke:#58a6ff,color:#fff
+    style F fill:#161b22,stroke:#58a6ff,color:#fff
+    style G fill:#161b22,stroke:#58a6ff,color:#fff
+    style H fill:#161b22,stroke:#58a6ff,color:#fff
+    style I fill:#161b22,stroke:#58a6ff,color:#fff
 ```
 
-### Current Focus
-
-`DSA` · `Python` · `Linux` · `AI` · `Backend`
+**Current →** `DSA` · `Python` · `Linux` · `Google Cloud Arcade` · `AI`
 
 ---
 
