@@ -2,35 +2,63 @@
 
 Computer Science student who enjoys building things, solving problems, and understanding how systems work.
 
-Currently exploring **Python, C++, Linux, AI, automation, and backend development**.
-
-### What I do
-
-- 🛠️ Build practical projects to learn by doing
-- 🧠 Practice Data Structures & Algorithms
-- 🐧 Explore Linux, Bash, and systems
-- 🤖 Experiment with AI and automation
-- 🌱 Continuously learning and improving
-
-### Tech
-
-`Python` `C++` `Bash` `Linux` `Git` `GitHub` `JavaScript` `TypeScript`
-
-### Projects
-
-🔎 **Job Listings Scraper** — Python-based web scraping and data processing
-
-🖥️ **Server Stats Script** — Linux system monitoring utility written in Bash
-
-🤖 **CensusAI-Connect** — AI-focused application
-
-### Connect
-
-[Gmail](zhrizvi476@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/) ·
-[LeetCode](https://leetcode.com/u/shabi_32/) ·
-[Codeforces](https://codeforces.com/profile/Shabi_32/)
+Currently exploring **Python, C++, Linux, AI, automation, and backend development.**
 
 ---
 
-*Build. Learn. Improve.*
+## 📈 Learning Journey
+
+```text
+🌱 Foundations
+      │
+      ▼
+💻 Programming
+      │
+      ▼
+🧠 DSA & Problem Solving
+      │
+      ▼
+🛠️ Real-World Projects
+      │
+      ▼
+🐧 Linux & Systems
+      │
+      ▼
+⚙️ Automation & Backend
+      │
+      ▼
+🤖 AI Engineering
+      │
+      ▼
+🚀 Production & Open Source
+```
+
+### Current Focus
+
+`DSA` · `Python` · `Linux` · `AI` · `Backend`
+
+---
+
+## 🧰 Tech
+
+`Python` `C++` `Bash` `Linux` `Git` `GitHub` `JavaScript` `TypeScript`
+
+---
+
+## 🔗 Connect
+
+[📧 Gmail](mailto:zhrizvi476@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/) ·
+[LeetCode](https://leetcode.com/u/shabi_32/) ·
+[Codeforces](https://codeforces.com/profile/Shabi_32/)
+---
+
+## Experienced With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,javascript,typescript,pytest,git,github,gcp,vscode" />
+</p>
+
+<p align="center">
+  <i>Build → Learn → Improve</i>
+</p>
