@@ -48,7 +48,7 @@ flowchart LR
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/shabi_32/">
