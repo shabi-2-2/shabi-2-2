@@ -2,7 +2,7 @@
 
 Computer Science student who enjoys building things, solving problems, and understanding how systems work.
 
-Currently exploring **Python, C++, Linux, AI, automation, and backend development.**
+Currently exploring **Python, C++, Linux, AI(DeepLearning), automation, and backend development.**
 
 ---
 
