@@ -9,6 +9,8 @@ I enjoy turning ideas into working software, solving problems, and learning how 
 - ⚙️ Developer automation: Learning CI workflows, GitHub Actions, automated checks, and regression reporting.
 - 🐧 Systems & cloud: Practicing Linux, Bash, Git, deployment, and Google Cloud fundamentals.
 - 🧠 Problem solving: Strengthening DSA and programming fundamentals.
+
+
 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,tailwind,fastapi,postgres,bash,linux,git,github,gcp,vscode" alt="Python, C++, JavaScript, TypeScript, React, Tailwind CSS, FastAPI, PostgreSQL, Bash, Linux, Git, GitHub, Google Cloud, and VS Code" />
