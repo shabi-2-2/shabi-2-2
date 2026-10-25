@@ -59,13 +59,18 @@ I enjoy turning ideas into working software, solving problems, and understanding
   />
 </p>
 
+## 📈 GitHub Contribution Activity
+
 <p align="center">
-  <a href="https://github.com/shabi-2-2">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View my GitHub profile"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/shabi-2-2/shabi-2-2/contribution-graph/contributions-line.svg"
+    alt="GitHub contribution activity line graph for the last year"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Weekly contribution activity and cumulative growth over the past year.</i>
 </p>
 
 <p align="center">
