@@ -59,23 +59,21 @@ I enjoy turning ideas into working software, solving problems, and understanding
   />
 </p>
 
+
 ## 📈 GitHub Contribution Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/shabi-2-2/shabi-2-2/contribution-graph/contributions-line.svg"
+    src="https://raw.githubusercontent.com/shabi-2-2/shabi-2-2/output/contributions-line.svg"
     alt="GitHub contribution activity line graph for the last year"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <i>Weekly contribution activity and cumulative growth over the past year.</i>
+  <i>Weekly contributions and cumulative growth over the past year.</i>
 </p>
 
-<p align="center">
-  <i>Note: Stats cards are generated through GitHub Actions and may reflect the most recent successful update.</i>
-</p>
 
 ---
 
