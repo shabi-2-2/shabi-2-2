@@ -1,0 +1,24 @@
+
+name: Update Contribution Line Graph
+
+on:
+  schedule:
+    - cron: "25 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: gcchart
+        uses: pipipi-dev/gcchart@v1.1.0
+        with:
+          github_user_name: shabi-2-2
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: contribution-graph
+          outputs: |
+            contributions-line.svg?style=clean&granularity=week&period=365&cumulative=true
