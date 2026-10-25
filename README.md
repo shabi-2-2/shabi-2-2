@@ -60,12 +60,13 @@ I enjoy turning ideas into working software, solving problems, and understanding
 </p>
 
 
+
 ## 📈 GitHub Contribution Activity
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/shabi-2-2/shabi-2-2/output/contributions-line.svg"
-    alt="GitHub contribution activity line graph for the last year"
+    alt="Shabi's GitHub contribution line graph"
     width="100%"
   />
 </p>
@@ -73,6 +74,7 @@ I enjoy turning ideas into working software, solving problems, and understanding
 <p align="center">
   <i>Weekly contributions and cumulative growth over the past year.</i>
 </p>
+
 
 
 ---
