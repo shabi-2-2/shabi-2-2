@@ -43,14 +43,28 @@ flowchart LR
     style H fill:#161b22,stroke:#58a6ff,color:#fff
     style I fill:#161b22,stroke:#58a6ff,color:#fff
 ```
-📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shabi-2-2&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabi-2-2&layout=compact&hide_border=true" alt="Most-used programming languages" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="GitHub statistics"
+  />
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Most-used repository languages"
+  />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=shabi-2-2&hide_border=true" alt="GitHub contribution streak" />
+## 🔥 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/shabi-2-2">
+    View my official GitHub contribution graph
+  </a>
 </p>
 
 🎯 What I'm Working Toward
