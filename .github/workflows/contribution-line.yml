@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: gcchart
-        uses: pipipi-dev/gcchart@v1.1.0
+      - name: Generate contribution line graph
+        uses: pipipi-dev/gcchart@v1
         with:
           github_user_name: shabi-2-2
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: contribution-graph
+          target_branch: output
           outputs: |
             contributions-line.svg?style=clean&granularity=week&period=365&cumulative=true
