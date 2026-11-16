@@ -13,7 +13,7 @@ I enjoy turning ideas into working software, solving problems, and understanding
 
 ---
 
-## 🚀 Current Focus
+## 👾 Current Focus
 
 | Area | What I'm Learning |
 |---|---|
